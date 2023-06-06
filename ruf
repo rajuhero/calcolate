@@ -1,0 +1,13 @@
+
+<div class="saving-remaing">
+                          
+    <div class="save">
+        <div class="save-section">
+       <label for="save">save</label>
+       <input type="text" id="saveInput"><span>%</span>
+       <button id="savebtn">save</button>
+       <h2>saving Amount: <span id="save"></span></h2>
+       <h2>Remaning Balance: <span id="remaning"></span></h2>
+   </div>
+</div>
+</div>
